@@ -1,0 +1,10 @@
+{
+  "id": "announcement-placeholder",
+  "title": "影舱公告",
+  "content": "编辑此文件并将 enabled 设为 true 后，公告会显示在影舱首页。",
+  "linkUrl": "",
+  "linkText": "",
+  "publishedAt": "2026-08-30T00:00:00+08:00",
+  "expiresAt": "",
+  "enabled": false
+}
